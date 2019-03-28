@@ -1,17 +1,6 @@
 # Num
 Long Project 1: Num - Integer arithmetic with arbitrarily large numbers
 
-Updates from Previous Submission 1:
-
-> Updated comments
-> Changed default base to 1000000000
-> Modified toString(), used StringBuilder
-> Modified product(a,b) to use quadraticMultiplication instead of Karatsuba Multiplication
-
--------------------------------- README ----------------------------------------------------
-
-This is a readme file containing instructions for executing code for Long Project 1
-
 Team No: 39
 @Authors:
 Pranita Hatte: prh170230
